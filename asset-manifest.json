@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/My-portfolio-website-Reactjs/static/css/main.44f3c791.chunk.css",
+    "main.js": "/My-portfolio-website-Reactjs/static/js/main.06bc59a6.chunk.js",
+    "main.js.map": "/My-portfolio-website-Reactjs/static/js/main.06bc59a6.chunk.js.map",
+    "runtime-main.js": "/My-portfolio-website-Reactjs/static/js/runtime-main.924e4317.js",
+    "runtime-main.js.map": "/My-portfolio-website-Reactjs/static/js/runtime-main.924e4317.js.map",
+    "static/css/2.f28e44d1.chunk.css": "/My-portfolio-website-Reactjs/static/css/2.f28e44d1.chunk.css",
+    "static/js/2.2db836a4.chunk.js": "/My-portfolio-website-Reactjs/static/js/2.2db836a4.chunk.js",
+    "static/js/2.2db836a4.chunk.js.map": "/My-portfolio-website-Reactjs/static/js/2.2db836a4.chunk.js.map",
+    "static/js/3.3b9b4037.chunk.js": "/My-portfolio-website-Reactjs/static/js/3.3b9b4037.chunk.js",
+    "static/js/3.3b9b4037.chunk.js.map": "/My-portfolio-website-Reactjs/static/js/3.3b9b4037.chunk.js.map",
+    "index.html": "/My-portfolio-website-Reactjs/index.html",
+    "service-worker.js": "/My-portfolio-website-Reactjs/service-worker.js",
+    "service-worker.js.map": "/My-portfolio-website-Reactjs/service-worker.js.map",
+    "static/css/2.f28e44d1.chunk.css.map": "/My-portfolio-website-Reactjs/static/css/2.f28e44d1.chunk.css.map",
+    "static/css/main.44f3c791.chunk.css.map": "/My-portfolio-website-Reactjs/static/css/main.44f3c791.chunk.css.map",
+    "static/js/2.2db836a4.chunk.js.LICENSE.txt": "/My-portfolio-website-Reactjs/static/js/2.2db836a4.chunk.js.LICENSE.txt",
+    "static/media/E-com.652bd011.png": "/My-portfolio-website-Reactjs/static/media/E-com.652bd011.png",
+    "static/media/Muhammad-Israr_Resume.1117008b.pdf": "/My-portfolio-website-Reactjs/static/media/Muhammad-Israr_Resume.1117008b.pdf",
+    "static/media/Taskify.c01e7b85.png": "/My-portfolio-website-Reactjs/static/media/Taskify.c01e7b85.png",
+    "static/media/about.aee0f771.png": "/My-portfolio-website-Reactjs/static/media/about.aee0f771.png",
+    "static/media/artisteeA.3e9d3b91.png": "/My-portfolio-website-Reactjs/static/media/artisteeA.3e9d3b91.png",
+    "static/media/artisteeF.1f84ada0.png": "/My-portfolio-website-Reactjs/static/media/artisteeF.1f84ada0.png",
+    "static/media/avatar.5852f40f.svg": "/My-portfolio-website-Reactjs/static/media/avatar.5852f40f.svg",
+    "static/media/easy-code.d399bb77.png": "/My-portfolio-website-Reactjs/static/media/easy-code.d399bb77.png",
+    "static/media/style.css": "/My-portfolio-website-Reactjs/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/My-portfolio-website-Reactjs/static/media/home-main.541f8179.svg",
+    "static/media/jsomBlog.94e64b2d.png": "/My-portfolio-website-Reactjs/static/media/jsomBlog.94e64b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.924e4317.js",
+    "static/css/2.f28e44d1.chunk.css",
+    "static/js/2.2db836a4.chunk.js",
+    "static/css/main.44f3c791.chunk.css",
+    "static/js/main.06bc59a6.chunk.js"
+  ]
+}
