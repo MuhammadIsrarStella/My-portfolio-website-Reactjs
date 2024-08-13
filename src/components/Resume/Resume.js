@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
-import pdf from "../../Assets/Mohit_SDE_Resume.pdf";
+import pdf from "../../Assets/Muhammad-Israr_Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import ReactGA from "react-ga";
 
@@ -42,10 +42,10 @@ function Resume() {
             />
             <h3 className="resume-title">Extracurricular Activities</h3>
             <Resumecontent
-              title="Technical Lead [Girlscript Surat]"
-              date="March 2020 - present"
+              title="Technically leading communities "
+              date="March 2023 - present"
               content={[
-                "As a Part of Community, we arrange lots of event,Like HackerRank contest,ReactJS Live session and lots of other stuff.",
+                "As a Part of Community, we arrange lots of event,Like HackerRank contest,NodeJS,NestJS,React Native and ReactJS Live session .",
               ]}
             />
             <Resumecontent
@@ -59,7 +59,7 @@ function Resume() {
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
-              title="Computer Science and Engineering [R.N.G.P.I.T] "
+              title="BS(CS) "
               date="2019 - 2023"
               content={[
                 `CGPA: 2.5/4 `,
