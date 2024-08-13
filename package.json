@@ -22,11 +22,11 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-   "start": "react-scripts start",
-   "build": "react-scripts build",
-   "predeploy": "npm run build",
-   "deploy": "gh-pages -d build"
-},
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -49,6 +49,10 @@
     "node": "16.x"
   },
   "devDependencies": {
+    "@babel/cli": "^7.24.8",
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/preset-react": "^7.24.7",
     "gh-pages": "^6.1.1"
   }
 }

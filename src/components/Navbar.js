@@ -46,7 +46,7 @@ function NavBar() {
               fontSize: '28px',
             }}
           >
-           Muhammad Israr|
+           Muhammad Israr
           </p>
         </Navbar.Brand>
         <Navbar.Toggle
