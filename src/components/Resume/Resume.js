@@ -25,18 +25,18 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
-              title="Full Stack developer [Shree Themes]"
-              date="April 2021 - present"
+              title="Flutter Developer[Bytewise]"
+              date="April 2022 - present"
               content={[
-                "Learned and experiment with React Native, Aws cloud services like S3, Amplify, App Sync, RDS, GraphQl and DynamoDb.",
+                "Learned and experiment with Flutter, Aws cloud services like S3, Amplify, App Sync, RDS, GraphQl and DynamoDb.",
                 "Build Full Social media and tinder type Application for LGBTQ+ people.",
               ]}
             />
             <Resumecontent
-              title="Full Stack developer [Zujo]"
+              title="Flutter Engineer"
               date="June 2020 - April 2021"
               content={[
-                "Learned and experiment with Aws cloud services like S3, EC2, DynamoDb with Typescript, Nodejs, Graphql, as a backend technology and React, RelayJs, Material UI and Next.js as a frontend technology.",
+                "Learned and experiment with Aws cloud services like S3, EC2, DynamoDb with Flutter, Typescript, Nodejs, Graphql, as a backend technology and Flutter as a frontend technology.",
                 "Build Full Online Learning Plateform which has servel feature like live streaming with real time chat, uploading courses, videos, track watch time etc.",
               ]}
             />
@@ -50,7 +50,7 @@ function Resume() {
             />
             <Resumecontent
               title="Microsoft Learn Student Ambassador"
-              date="Sep 2019 - March 2021"
+              date="Sep 2022 - March 2023"
               content={[
                 "Under the Microsoft Learn Student Ambassadors programme, I started my cloud journey and learn basics of azure and i hosted several events Like hosting github session, Benifits of open source programme and and its community and much more.",
               ]}
@@ -60,10 +60,10 @@ function Resume() {
             <h3 className="resume-title">Education</h3>
             <Resumecontent
               title="Computer Science and Engineering [R.N.G.P.I.T] "
-              date="2017 - 2021"
+              date="2019 - 2023"
               content={[
-                `CGPA: 9.00/10 `,
-                "I was complete my bachelor degree fron R.N.G Patel Institute of Technology.",
+                `CGPA: 2.5/4 `,
+                "I had Completed Bachelor of Science in Computer Science, University Of Wah, Wah Cantt, Pakistan .",
               ]}
             />
 
@@ -71,8 +71,8 @@ function Resume() {
             <Resumecontent
               title=""
               content={[
-                `Top 40 of IngineousHunt contest winner and get 16GB pandrive.`,
-                `2nd rank in college elocution competition.`,
+                `Winner of Programming Competition in comsats .`,
+                `2nd rank RunnerUp in my Final Year Project .`,
               ]}
             />
           </Col>

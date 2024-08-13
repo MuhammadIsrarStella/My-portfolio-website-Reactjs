@@ -20,14 +20,14 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> JAVA, Javascript ,TypeScript and Python. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">
-                a Software Engineer specializing in Healthcare technology Ecommerce 
+                I am a Software Engineer specializing in Healthcare technology Ecommerce 
                 at Stella Technology{' '}
                 </b>{' '}
                 and also in areas related to <b className="purple">Clouds.</b>
